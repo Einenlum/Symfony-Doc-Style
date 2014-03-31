@@ -21,5 +21,5 @@ With [Solarized Dark Everywhere](http://userstyles.org/styles/98305/solarized-da
 Installation
 ------------
 
-You can create a new style in Stylish and paste the entire css sheet. You can also preview and install it directly on [Userstyles.org](http://userstyles.org/styles/99771/symfony-doc-enhanced-syntax-highlighting-anytime) (recommemded).
+You can create a new style in Stylish and paste the entire css sheet. You can also preview and install it directly on [Userstyles.org](http://userstyles.org/styles/99771/symfony-doc-enhanced-syntax-highlighting-anytime) (recommended).
 
