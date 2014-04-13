@@ -10,7 +10,7 @@
     /* Strings */
 .highlight pre span.s1, .highlight pre span.s2, .highlight pre span.s, .highlight  pre span.se, pre span.sb
     {
-        color: #33D934 !important;
+        color: #3AC36E !important;
     }
     
     /* Keywords */
@@ -59,12 +59,12 @@
     /* Methods */
      pre span.na
     {
-        color: #FFFDB9 !important;
+        color: #9ED62D !important;
     }
-    
+
     /* Variables & Everything else */
     pre span.nv, pre span.nx, pre span.nf, pre
     {
-        color: #fff !important;
+        color: #eee !important;
     }
 }
