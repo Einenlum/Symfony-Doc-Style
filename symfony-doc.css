@@ -56,15 +56,14 @@
         color: #B2DFF0 !important;
     }
    
-    
-    /* Variables */
-    pre span.nv
+    /* Methods */
+     pre span.na
     {
         color: #FFFDB9 !important;
     }
     
-    /* Else */
-    pre span.na, pre span.nx, pre span.nf, pre
+    /* Variables & Everything else */
+    pre span.nv, pre span.nx, pre span.nf, pre
     {
         color: #fff !important;
     }
