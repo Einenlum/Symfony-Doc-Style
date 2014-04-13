@@ -22,6 +22,7 @@ With [Solarized Dark Everywhere](http://userstyles.org/styles/98305/solarized-da
 ![With Solarized Dark Everywhere, before](http://i.imgur.com/PcItw0a.png)
 
 After activating the style:
+
 ![With Solarized Dark Everywhere, before](http://i.imgur.com/Sh3Phdk.png)
 
 Installation
