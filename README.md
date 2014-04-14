@@ -15,15 +15,15 @@ Preview
 -------
 Preview of the style:
 
-![Preview of the style](http://i.imgur.com/Id71gpU.png?1?5791)
+![Preview of the style](http://i.imgur.com/hMzQJrl.png)
 
 With [Solarized Dark Everywhere](http://userstyles.org/styles/98305/solarized-dark-everywhere) before  activating the style:
 
-![With Solarized Dark Everywhere, before](http://i.imgur.com/PcItw0a.png)
+![With Solarized Dark Everywhere, before](http://i.imgur.com/D0L8q3s.png)
 
 After activating the style:
 
-![With Solarized Dark Everywhere, before](http://i.imgur.com/Sh3Phdk.png)
+![With Solarized Dark Everywhere, before](http://i.imgur.com/mQAzoca.png)
 
 Installation
 ------------
